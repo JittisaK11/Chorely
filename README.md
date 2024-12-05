@@ -1,5 +1,6 @@
 # **Chorely**
-Youtube Link: https://youtu.be/hylqcaq2NeA
+Chorely is an app that my friends and I made in our iOS Mobile App Development class.
+Demo Link: https://youtu.be/hylqcaq2NeA
 
 ## **Overall Project Concept**
 Chorely is a social task-management app designed to make chore completion and planning a collaborative experience. By blending productivity with social engagement, Chorely helps users stay organized and connected with friends while working on everyday chores and tasks. With features inspired by social apps like Partiful and Stompers, Chorely brings a fun and community-driven approach to staying organized.
